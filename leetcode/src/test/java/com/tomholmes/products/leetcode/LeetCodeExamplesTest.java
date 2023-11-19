@@ -1,7 +1,7 @@
 package com.tomholmes.products.leetcode;
 
 
-public class LeetCodeExamples
+public class LeetCodeExamplesTest
 {
 
 }
